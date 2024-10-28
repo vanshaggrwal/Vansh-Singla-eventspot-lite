@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "name": "Music Festival",
+        "date": "2024-10-10",
+        "location": "Central Park",
+        "description": "Join us for a day of music, food, and fun!",
+        "image": "https://www.eventbrite.co.uk/blog/wp-content/uploads/2022/07/How-to-organise-music-concert-768x549.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Art Exhibition",
+        "date": "2024-10-12",
+        "location": "Art Gallery",
+        "description": "Explore the latest art pieces from local artists.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkz93_6SV38xjQlgEWBbEIXZHawsQhVfWP7DM3plXAhvrgtJ2QE8wxwfE&s"
+    },
+    {
+        "id": 3,
+        "name": "Food Truck Rally",
+        "date": "2024-10-15",
+        "location": "Downtown",
+        "description": "Taste delicious food from various food trucks.",
+        "image": "https://content.jdmagicbox.com/comp/def_content/food-truck-consultants/screenshot15-food-truck-consultants-5-spyj8.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tech Conference",
+        "date": "2024-11-05",
+        "location": "Convention Center",
+        "description": "Join industry leaders for a day of innovation and networking.",
+        "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRlY2glMjBjb25mZXJlbmNlJTIwY29uZmVyZW5jZXxlbnwwfHx8fDE2NjA5NjI0MjQ&ixlib=rb-1.2.1&q=80&w=1080"
+    },
+    {
+        "id": 5,
+        "name": "Charity Run",
+        "date": "2024-11-20",
+        "location": "City Park",
+        "description": "Run for a cause! Join us to support local charities.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHJ1biUyMGZvb3R8ZW58MHx8fHwxNjYwOTYyNDI0&ixlib=rb-1.2.1&q=80&w=1080"
+    },
+    {
+        "id": 6,
+        "name": "Wine Tasting Evening",
+        "date": "2024-11-25",
+        "location": "Vineyard",
+        "description": "Enjoy a night of fine wines and gourmet food.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5_I2MhiYXlcmbFMwT6wplTIheWBlU-HV4w&s"
+    },
+    {
+        "id": 7,
+        "name": "Comedy Night",
+        "date": "2024-12-01",
+        "location": "Theater",
+        "description": "Laugh out loud with our lineup of hilarious comedians!",
+        "image": "https://media.istockphoto.com/id/1316581169/photo/stage-with-microphone-and-stool-with-red-neon-lamp-with-the-word-comedy-space-for-text.jpg?s=612x612&w=0&k=20&c=fZWcSVG2nUhUnuP88GBfInRd3LNPVcjHY5nzJlWzsVY="
+    },
+    {
+        "id": 8,
+        "name": "Christmas Market",
+        "date": "2024-12-10",
+        "location": "Town Square",
+        "description": "Get into the holiday spirit with our festive market!",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQSYZYsTOJz32teQ7-YEgwDGCKXvBoirIhg&s"
+    },
+    {
+        "id": 9,
+        "name": "New Year's Eve Party",
+        "date": "2024-12-31",
+        "location": "Hotel Ballroom",
+        "description": "Ring in the new year with music, dancing, and champagne!",
+        "image": "https://nationaltoday.com/wp-content/uploads/2020/12/New-Years-Eve-1-1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Wellness Retreat",
+        "date": "2025-01-15",
+        "location": "Mountain Resort",
+        "description": "Escape to a tranquil retreat focused on wellness and self-care.",
+        "image": "https://www.tattvamretreat.in/blog/wp-content/uploads/2023/09/feature-image-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Fashion Show",
+        "date": "2025-02-20",
+        "location": "Fashion District",
+        "description": "Experience the latest fashion trends on the runway!",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/schiaparelli-hcss22-look29-1643235848.jpg"
+    },
+    {
+        "id": 12,
+        "name": "St. Patrick's Day Parade",
+        "date": "2025-03-17",
+        "location": "Downtown",
+        "description": "Celebrate St. Patrick's Day with a festive parade!",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u2p98RzpoQaPFLsLnnjzoii29rsu68a1BA&s"}
+]
